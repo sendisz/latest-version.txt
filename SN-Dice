@@ -1,4 +1,9 @@
 version: 1.0.1
 update_msg:
-  - New update! Your version {version}, new version: {new_version}
-  - Here you can download plugin: link_in_the_future_soon
+  - &7
+  - &7[&6SN-DICE&7] &eNew update is ready! 
+  - &8   > &7Your using version: &c{version}
+  - &8   > &7Newest version: &a{new_version}
+  - &7
+  - &8> &7Here you can download plugin: &alink_in_the_future_soon
+  - &7
