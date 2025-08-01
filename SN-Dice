@@ -1,7 +1,7 @@
-version: 1.0.0
+version: 1.0.1
 update_msg:
   - &7
-  - &7[&6SN-DICE&7] &eNew update is ready! 
+  - &7[&6SN-DICE&7] &eNew update is ready &c(MAJOR BUG FIX)&e! 
   - &8   > &7Your using version: &c{version}
   - &8   > &7Newest version: &a{new_version}
   - &7
