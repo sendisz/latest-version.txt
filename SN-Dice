@@ -1,9 +1,10 @@
 version: 1.0.1
 update_msg:
   - &7
-  - &7[&6SN-DICE&7] &eNew update is ready &c(MAJOR BUG FIX)&e! 
+  - &7[&6SN-DICE&7] &eNew update &cis ready&e! 
   - &8   > &7Your using version: &c{version}
   - &8   > &7Newest version: &a{new_version}
   - &7
-  - &8> &7Here you can download plugin: &alink_in_the_future_soon
+  - &8> &7Here you can download plugin: 
+  - &8> &ahttps://www.spigotmc.org/resources/sn-dice-the-ultimate-dice-duel-plugin.127475/
   - &7
